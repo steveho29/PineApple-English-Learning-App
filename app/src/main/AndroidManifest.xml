@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ZellyCookies.PineApple">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:icon="@mipmap/ic_launcher_true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.ZellyCookies.PineApple.Main.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.ZellyCookies.PineApple.Login.Login" />
+        <activity android:name="com.ZellyCookies.PineApple.Login.RegisterBasicInfo" />
+        <activity android:name="com.ZellyCookies.PineApple.Matched.Matched_Activity" />
+        <activity android:name="com.ZellyCookies.PineApple.Conversation.ConversationActivity"/>
+        <activity android:name="com.ZellyCookies.PineApple.Profile.Profile_Activity" />
+        <activity android:name="com.ZellyCookies.PineApple.Main.ProfileCheckinMain" />
+        <activity android:name="com.ZellyCookies.PineApple.Matched.ProfileCheckinMatched" />
+        <activity android:name="com.ZellyCookies.PineApple.Profile.EditProfileActivity" />
+        <activity android:name="com.ZellyCookies.PineApple.Introduction.IntroductionMain" />
+        <activity android:name="com.ZellyCookies.PineApple.Login.RegisterGender" />
+        <activity android:name="com.ZellyCookies.PineApple.Login.RegisterGenderPrefection" />
+        <activity android:name="com.ZellyCookies.PineApple.Login.RegisterAge" />
+        <activity android:name="com.ZellyCookies.PineApple.Login.RegisterHobby" />
+        <activity android:name="com.ZellyCookies.PineApple.Profile.SettingsActivity" />
+        <activity android:name="com.ZellyCookies.PineApple.Main.BtnLikeActivity" />
+        <activity android:name="com.ZellyCookies.PineApple.Main.BtnDislikeActivity"></activity>
+    </application>
+
+</manifest>

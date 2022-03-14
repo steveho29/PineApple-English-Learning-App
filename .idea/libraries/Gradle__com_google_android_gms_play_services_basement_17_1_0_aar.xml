@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-basement:17.1.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../TinderClone-master/TinderClone-master/gradle/wrapper/caches/transforms-2/files-2.1/f28c0ec8b756fe377ab520e5e2c489ae/jetified-play-services-basement-17.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TinderClone-master/TinderClone-master/gradle/wrapper/caches/transforms-2/files-2.1/f28c0ec8b756fe377ab520e5e2c489ae/jetified-play-services-basement-17.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../TinderClone-master/TinderClone-master/gradle/wrapper/caches/transforms-2/files-2.1/f28c0ec8b756fe377ab520e5e2c489ae/jetified-play-services-basement-17.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4967d35a8d64afea2ae1713326a208e8/jetified-play-services-basement-17.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4967d35a8d64afea2ae1713326a208e8/jetified-play-services-basement-17.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4967d35a8d64afea2ae1713326a208e8/jetified-play-services-basement-17.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../TinderClone-master/TinderClone-master/gradle/wrapper/caches/modules-2/files-2.1/com.google.android.gms/play-services-basement/17.1.0/7fa2e5498ad43ed18a3cf89f1c615821d2174dd8/play-services-basement-17.1.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-basement/17.1.0/7fa2e5498ad43ed18a3cf89f1c615821d2174dd8/play-services-basement-17.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

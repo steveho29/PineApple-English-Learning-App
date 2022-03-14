@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.chabbal:slidingdotsplash:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../TinderClone-master/TinderClone-master/gradle/wrapper/caches/transforms-2/files-2.1/46d0ad28976c19594e9d13860e5cf2f1/jetified-slidingdotsplash-1.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TinderClone-master/TinderClone-master/gradle/wrapper/caches/transforms-2/files-2.1/46d0ad28976c19594e9d13860e5cf2f1/jetified-slidingdotsplash-1.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../TinderClone-master/TinderClone-master/gradle/wrapper/caches/transforms-2/files-2.1/46d0ad28976c19594e9d13860e5cf2f1/jetified-slidingdotsplash-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b270996b4875b999dddd2a1a80bf224b/jetified-slidingdotsplash-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b270996b4875b999dddd2a1a80bf224b/jetified-slidingdotsplash-1.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b270996b4875b999dddd2a1a80bf224b/jetified-slidingdotsplash-1.0.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../TinderClone-master/TinderClone-master/gradle/wrapper/caches/modules-2/files-2.1/com.chabbal/slidingdotsplash/1.0.2/977b2ce0c9cc55aa53551da5e86aea7295e1e9ac/slidingdotsplash-1.0.2-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.chabbal/slidingdotsplash/1.0.2/977b2ce0c9cc55aa53551da5e86aea7295e1e9ac/slidingdotsplash-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../TinderClone-master/TinderClone-master/gradle/wrapper/caches/modules-2/files-2.1/com.chabbal/slidingdotsplash/1.0.2/ffde2bd454db7c5fed26e08377efe3a2b7f3ad20/slidingdotsplash-1.0.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.chabbal/slidingdotsplash/1.0.2/ffde2bd454db7c5fed26e08377efe3a2b7f3ad20/slidingdotsplash-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

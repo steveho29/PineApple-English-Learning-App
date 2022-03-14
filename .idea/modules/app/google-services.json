@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "797724487227",
+    "firebase_url": "https://pinkmoon-an-dating-android-app.firebaseio.com",
+    "project_id": "pinkmoon-an-dating-android-app",
+    "storage_bucket": "pinkmoon-an-dating-android-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797724487227:android:e0c00689f7a24e3bc9361e",
+        "android_client_info": {
+          "package_name": "com.example.dating_app_android_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797724487227-qblqpb9212bi7clt84bkf9i29ubjdq6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dating_app_android_project",
+            "certificate_hash": "5ade995ef240611391d76987bd20afac14d01ce6"
+          }
+        },
+        {
+          "client_id": "797724487227-en8ac6ana2rc23bgfl4bs9n9qrqi7o60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPbhTrxASaSIfWbTTV8DXMXCvuV6JRh2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797724487227-en8ac6ana2rc23bgfl4bs9n9qrqi7o60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797724487227:android:936bb2628d40059fc9361e",
+        "android_client_info": {
+          "package_name": "com.example.yuxuanli.pinmoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797724487227-ptgfv8040716440h4oidhdocq3e1g4av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yuxuanli.pinmoon",
+            "certificate_hash": "5ade995ef240611391d76987bd20afac14d01ce6"
+          }
+        },
+        {
+          "client_id": "797724487227-en8ac6ana2rc23bgfl4bs9n9qrqi7o60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPbhTrxASaSIfWbTTV8DXMXCvuV6JRh2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797724487227-en8ac6ana2rc23bgfl4bs9n9qrqi7o60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

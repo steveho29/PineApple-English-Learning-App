@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ittianyu:BottomNavigationViewEx:2.0.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../TinderClone-master/TinderClone-master/gradle/wrapper/caches/transforms-2/files-2.1/bf1ca5f8b7c7f25ab23f080a62f3dfa3/jetified-BottomNavigationViewEx-2.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TinderClone-master/TinderClone-master/gradle/wrapper/caches/transforms-2/files-2.1/bf1ca5f8b7c7f25ab23f080a62f3dfa3/jetified-BottomNavigationViewEx-2.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../TinderClone-master/TinderClone-master/gradle/wrapper/caches/transforms-2/files-2.1/bf1ca5f8b7c7f25ab23f080a62f3dfa3/jetified-BottomNavigationViewEx-2.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/50b0d4858d83a48e758f6c05c37fff98/jetified-BottomNavigationViewEx-2.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/50b0d4858d83a48e758f6c05c37fff98/jetified-BottomNavigationViewEx-2.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/50b0d4858d83a48e758f6c05c37fff98/jetified-BottomNavigationViewEx-2.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../TinderClone-master/TinderClone-master/gradle/wrapper/caches/modules-2/files-2.1/com.github.ittianyu/BottomNavigationViewEx/2.0.2/1441cd41ca6be818d9c625b3e5c6527552c8e45f/BottomNavigationViewEx-2.0.2-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ittianyu/BottomNavigationViewEx/2.0.2/1441cd41ca6be818d9c625b3e5c6527552c8e45f/BottomNavigationViewEx-2.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../TinderClone-master/TinderClone-master/gradle/wrapper/caches/modules-2/files-2.1/com.github.ittianyu/BottomNavigationViewEx/2.0.2/a63535734497f07a740e058265ef48198733dc06/BottomNavigationViewEx-2.0.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ittianyu/BottomNavigationViewEx/2.0.2/a63535734497f07a740e058265ef48198733dc06/BottomNavigationViewEx-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
